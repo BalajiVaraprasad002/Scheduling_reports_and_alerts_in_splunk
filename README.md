@@ -2,7 +2,7 @@
 
 A comprehensive guide to configuring, scheduling, and troubleshooting reports and alerts in Splunk to monitor security events like failed login attempts.
 
-[View the Original PDF](Scheduling%20reports%20and%20alerts%20in%20splunk)
+[View the Original PDF](Scheduling%20reports%20and%20alerts%20in%20splunk%20)
 
 ---
 
