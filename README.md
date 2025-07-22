@@ -2,7 +2,7 @@
 
 A comprehensive guide to configuring, scheduling, and troubleshooting reports and alerts in Splunk to monitor security events like failed login attempts.
 
-[View the Original PDF](Scheduling%20reports%20and%20alerts%20in%20splunk%20)
+[View the Original PDF](https://github.com/BalajiVaraprasad002/Scheduling_reports_and_alerts_in_splunk/blob/main/scheduling%20reports%20and%20alerts%20in%20splunk.pdf)
 
 ---
 
@@ -141,4 +141,4 @@ For robust escalation, integrate Splunk alerts with ticketing or on-call managem
 
 ## Connect with Me
 
--   **LinkedIn:** `https://www.linkedin.com/in/balaji-varaprasad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`
+-   **LinkedIn:** (https://www.linkedin.com/in/balaji-varaprasad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
